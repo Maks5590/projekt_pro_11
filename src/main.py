@@ -1,2 +1,2 @@
 #!/bin/sh
-print("Hello word")
+print("Hello linux")
